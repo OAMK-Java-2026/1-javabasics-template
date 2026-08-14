@@ -73,8 +73,6 @@ jobs:
               echo ""
               echo "_(no test report for $missing_reports exercise(s) — check the 'Run tests' step above for a compile error)_"
             fi
-            echo ""
-            echo "This is practice feedback only, not your recorded grade — see the repo README."
           } >> "$GITHUB_STEP_SUMMARY"
 
           state="success"
