@@ -1,4 +1,8 @@
 {
-  "exercises.Exercise1Test": 2,
-  "exercises.Exercise2Test": 3
+  "exercises.MultiplierTest": 1,
+  "exercises.CheckerTest": 1,
+  "exercises.GreetingTest": 1,
+  "exercises.ValidatorTest": 1,
+  "exercises.FactorialTest": 1,
+  "exercises.FibonacciTest": 1
 }
