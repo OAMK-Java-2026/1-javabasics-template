@@ -2,6 +2,14 @@
 
 Welcome! This topic has one or more small Java exercises to work through.
 
+## What you'll learn
+
+- Writing method bodies that operate on parameters and print results
+- Conditional logic with `if`/`else` based on numeric comparisons
+- Looping over arrays and building formatted console output
+- Validating input ranges and handling out-of-range values
+- Designing iterative algorithms: factorial and the Fibonacci sequence
+
 ## The exercises
 
 | Exercise | Name | File | Points |
