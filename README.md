@@ -97,14 +97,12 @@ In fact, you will need your algorithm implementation in later exercises.
 
 ## Step by step
 
-1. **Clone this repo**:
-   ```
-   git clone <this repo's URL>
-   cd <the folder that creates>
-   ```
-2. **Open it in VS Code**: `code .` (or File → Open Folder). If prompted
-   "This workspace has extension recommendations", click **Install** — this
-   adds a flask-shaped **Testing** icon to the left sidebar.
+1. **Clone this repo** using VS Code's Source Control view: open VS Code,
+   click the **Source Control** icon in the left sidebar, choose **Clone
+   Repository**, and paste in this repo's URL.
+2. **Open it in VS Code** once it's cloned. If prompted "This workspace has
+   extension recommendations", click **Install** — this adds a flask-shaped
+   **Testing** icon to the left sidebar.
 3. **Run the tests before changing anything**, just to see where you're
    starting from. Click the flask icon, then the play button at the top of
    the Test Explorer panel — everything will be red at first, and that's
@@ -114,12 +112,7 @@ In fact, you will need your algorithm implementation in later exercises.
    terminal? `mvn test` does the same check for all exercises at once.
 6. **Work locally** until everything passes.
 7. **Push your work back** to the GitHub organization when you're ready:
-   ```
-   git add -A
-   git commit -m "Exercises done"
-   git push
-   ```
-   A quick check runs automatically on GitHub afterward — you can peek at
-   it under this repo's **Actions** tab if you're curious, but it's just
-   extra feedback, nothing you need to act on.
+   open the **Source Control** view, stage your changes with the **+**
+   button, type a commit message, then click the arrow next to **Commit**
+   and choose **Commit & Push** to commit and push in one step.
 8. **Assignment completed — good job!**
